@@ -1,0 +1,42 @@
+.roadmapInfo{
+    position: absolute;
+    overflow: scroll;
+    height: 250%;
+    width: 100%;
+    background-image: 
+                      url('../../assets/roadmap/bunny-inside.png'),
+                      url('../../assets/roadmap/bunny-out.png'),
+                      url('../../assets/roadmap/hole.png'),
+
+                      url('../../assets/roadmap/tube.png'),
+                      url('../../assets/roadmap/tv-azure-right.png'),
+                      url('../../assets/roadmap/tv-green-left.png'),
+                      url('../../assets/roadmap/tv-orange-right.png'),
+
+                      url('../../assets/roadmap/tv-pink-left.png'),
+                      url('../../assets/roadmap/tv-purple-right.png'),
+                      url('../../assets/roadmap/tv-yellow-left.png'),
+                      url('../../assets/roadmap/wires.png'),
+                      
+                      url('../../assets/roadmap/ground.png'),
+                      url('../../assets/roadmap/BG.png');
+    background-size: 100% 100%, 100% 100%, 100% 100%,
+                     100% 100%, 100% 100%, 100% 100%,
+                     100% 100%, 100% 100%, 100% 100%,
+                     100% 100%, 100% 100%, 100% 100%, 100% 100%;
+    background-position: 0% 0%, 0% 0%, 0% 0%,
+                         0% 0%, 0% 0%, 0% 0%,
+                         0% 0%, 0% 0%, 0% 0%,
+                         0% 0%, 0% 0%, 0% 0%, 0% 0%;
+    background-repeat: no-repeat;
+}
+
+.roadmapInfo h1{
+    position: absolute;
+    font-size: 40px;
+    color: #fff;
+    width: fit-content;
+    margin: 3% 0%;
+    width: 100%;
+    text-align: center;
+}

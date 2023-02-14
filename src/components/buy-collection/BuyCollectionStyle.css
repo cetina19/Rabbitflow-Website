@@ -1,0 +1,23 @@
+.buyCollectionInfo{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background-color: #000;
+
+    background-image: url('../../assets/buy/bunny-left.png'),
+    url('../../assets/buy/bunny-right.png'),
+    url('../../assets/buy/green-light.png'),
+    url('../../assets/buy/machinary.png'),
+    url('../../assets/buy/ground.png'),
+    
+    url('../../assets/buy/wires.png'),
+    url('../../assets/buy/BG.png');
+    background-size: 100% 100%, 100% 100%,
+    100% 100%, 100% 100%, 100% 100%,
+    100% 100%, 100% 100%;
+    background-position: 50% 60%, 50% 60%,
+        50% 60%, 50% 60%, 50% 60%,
+        50% 60%,
+        0% 0%;
+    background-repeat: no-repeat;
+}

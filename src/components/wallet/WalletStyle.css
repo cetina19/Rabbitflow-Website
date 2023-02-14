@@ -1,0 +1,26 @@
+.walletInfo{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background-image: url('../../assets/wallet/bunny.png'),
+    
+    url('../../assets/wallet/wires.png'),
+    url('../../assets/wallet/giant-sparks.png'),
+    url('../../assets/wallet/sparks01.png'),
+    url('../../assets/wallet/structure.png'),
+    url('../../assets/wallet/wallet.png'),
+    url('../../assets/wallet/BG.png');
+    background-size: 100% 100%, 100% 100%, 100% 100%, 100% 100%,
+                     100% 100%, 100% 100%, 100% 100%;
+    background-position: 50% 50%, 0% 0%, 0% 0%, 0% 0%,
+                         50% 50%, 0% 0%, 0% 0%;
+    /*background-size: 100% 100%, 100% 100%,
+                     100% 100%, 100% 100%, 100% 100%,
+                     100% 100%, 100% 100%,
+                     100% 100%;
+    background-position: 50% 60%, 50% 60%,
+                         50% 60%, 50% 60%, 50% 60%,
+                         50% 60%, 50% 60%,
+                         0% 0%;*/
+    background-repeat: no-repeat;
+}

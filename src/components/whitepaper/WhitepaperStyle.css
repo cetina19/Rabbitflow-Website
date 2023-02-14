@@ -1,0 +1,30 @@
+.whitepaperInfo{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background-image: 
+                      url('../../assets/whitepaper/hole.png'),
+                      url('../../assets/whitepaper/book.png'),
+                      url('../../assets/whitepaper/bookshelf-third-position-left.png'),
+                      url('../../assets/whitepaper/bookshelf-third-position-right.png'),
+
+                      url('../../assets/whitepaper/bunny.png'),
+                      url('../../assets/whitepaper/high-bookshelf-left.png'),
+                      url('../../assets/whitepaper/high-bookshelf-right.png'),
+                      url('../../assets/whitepaper/light.png'),
+
+                      url('../../assets/whitepaper/small-bookshelf-right.png'),
+                      url('../../assets/whitepaper/small-bookshelf-left.png'),
+                      
+                      url('../../assets/whitepaper/ground.png'),
+                      url('../../assets/whitepaper/BG.png');
+    background-size: 100% 100%, 100% 100%, 100% 100%,
+                     100% 100%, 100% 100%, 100% 100%,
+                     100% 100%, 100% 100%,100% 100%,
+                     100% 100%, 100% 100%,100% 100%;
+    background-position: 0% 0%, 0% 0%, 0% 0%,
+                         0% 0%, 0% 0%, 0% 0%,
+                         0% 0%, 0% 0%, 0% 0%,
+                         0% 0%, 0% 0%, 0% 0%;
+    background-repeat: no-repeat;
+}

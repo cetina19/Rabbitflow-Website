@@ -1,0 +1,26 @@
+.teamInfo{
+    position: absolute;
+    height: 104%;
+    width: 100%;
+    background-image: 
+    
+    url('../../assets/team/rock-left.png'),
+
+    url('../../assets/team/rock-right.png'),
+
+    url('../../assets/team/lights.png'),
+    url('../../assets/team/wires.png'),
+    
+    url('../../assets/team/hole.png'),
+    
+    url('../../assets/team/coloseum.png'),
+    url('../../assets/team/bunnies.png'),
+    
+    url('../../assets/team/ground.png'),
+    url('../../assets/team/BG.png');
+    background-size: 100% 100%, 100% 100%, 100% 100%, 100% 100%, 100% 100%,
+                     100% 100%, 100% 98%, 100% 100%, 100% 100%;
+    background-position: 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%,
+                         0% 00%, 0% 0%, 0% 0%, 0% 0%;
+    background-repeat: no-repeat;
+}

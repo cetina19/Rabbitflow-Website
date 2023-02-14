@@ -1,0 +1,144 @@
+.contactInfo{
+    background-image: url('../../assets/contact/phone1.png'),
+    url('../../assets/contact/phone2.png'),
+    url('../../assets/contact/phone3.png'),
+    url('../../assets/contact/phone4.png'),
+    url('../../assets/contact/left-machine-rabbit.png'),
+    url('../../assets/contact/right-machine-rabbit.png'),
+    url("../../assets/contact/tubes.png"),
+    url('../../assets/contact/field.png'),
+    radial-gradient(#e4cccc 40%, #482c2c 80%), linear-gradient(to bottom,  #482c2c 15%, #040404  95% );
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-size: 10% 24%, 10% 37%, 10% 30%, 10% 45%,
+                     34% 80%, 32% 80%,
+                     80% 23%, 120% 60%,
+                     70% 100%, 100% 100%;
+    background-position: 8% -6%, 17% -15%, 88% 0%, 93% 0%,
+                         0% 60%, 99.8% 60%,
+                         50% 81%, 60% 140%,
+                         50% 0%, 0% 0%;
+    
+    overflow: visible;
+}
+
+
+.horizontal-layout {
+    width: 100%;
+    height: 100%;
+    padding-top: 8%;
+    margin: 0 auto;
+}
+
+
+.formArea{
+    margin: 5% auto;
+    height: 1%;
+}
+
+form{
+    height: 100%;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.form-field{
+    margin: 0rem auto;
+    width: 40%;
+    height: 30rem;
+    background-color: #fff;
+    /*box-shadow: 0 10px 30px #5c3737;*/
+}
+
+.form-col{
+    height:100%;
+    margin: 0rem auto;
+    width: 50%;
+}
+
+.form-row{
+    margin: 3rem 8%;
+    width: 90%;
+}
+
+.form-row h1{
+    padding-top: 0rem;
+    padding-left: 5.5%;
+    color: #fff;
+    margin: 2% 3%;
+}
+
+.form-row h2{
+    margin: 2rem 20%;
+    padding-bottom:  1.5rem;
+    color: #000;
+}
+.contact-icons{
+    padding-left: 31%;
+    padding-bottom: 3%;
+}
+
+.contact-icon li{
+    overflow: visible;
+    display: inline;
+    margin: 0 auto;
+}
+
+.form-row input{
+    border-top-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    margin: 10px 0 10px 0;
+    padding-left: 6px;
+    width: 100%;
+}
+
+.form-row textarea{
+    border-top-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    margin: 10px 0 10px 0;
+    padding-left: 6px;
+    height: fit-content;
+    width: 100%;
+}
+
+
+.form-row .btn-grad {
+    background-image: linear-gradient(to right, #CD2269 0%, #DF3833  51%, #CD2269  100%);
+    width: fit-content;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 100% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 0px;
+    display: block;
+    border: transparent;
+    margin: 0 auto;     /*Button location*/
+    align-items: center;
+}
+
+.btn-grad:hover {
+    background-position: right center; 
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+
+
+li a:hover{
+    color: #fff;
+}
+
+
+.informationContact{
+    font-size: 10px;
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+    background-color: transparent;
+    color: #fff;
+    padding-bottom: 2rem;
+}
